@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# Operation Aural Integrity
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
 
-## Available Scripts
+Operation Aural Integrity is a groundbreaking solution designed to address the challenges faced by the luxury goods industry, focusing on countering counterfeits, ensuring authenticity, and securing warranties. Leveraging the power of the Tezos blockchain and Non-Fungible Tokens (NFTs), this project introduces a comprehensive assurance ecosystem that redefines transparency and trust in the luxury goods market.
 
-In the project directory, you can run:
+## Key Features
 
-### `npm start`
+- _Tezos Blockchain Integration:_
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  - Decentralized, secure, and self-amending ledger.
+  - Unique digital identifiers for transparent traceability.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- _Non-Fungible Tokens (NFTs) for Warranties:_
 
-### `npm test`
+  - Verifiable certificates for warranty information.
+  - Enhanced security and uniqueness through NFT-based warranties.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- _Smart Contracts for Authentication:_
 
-### `npm run build`
+  - Multi-faceted solutions for authenticity and warranty concerns.
+  - Mobile/web applications for consumer verification.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- _Immutable Traceability:_
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  - Transparent and tamper-proof supply chain on Tezos.
+  - NFTs for unique, unforgeable tokens enhancing traceability.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- _Supplier Onboarding and Compliance:_
 
-### `npm run eject`
+  - Rigorous compliance checks for suppliers.
+  - Assurance of authenticity through Tezos blockchain.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- _Consumer Feedback with NFT-Enhanced Warranties:_
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  - Mobile/web applications for enriched consumer feedback.
+  - Secure feedback loop using NFT-backed warranties.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- _Continuous Monitoring and Updates:_
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  - Self-amending capability of Tezos blockchain for continuous improvement.
+  - Regular updates to smart contracts for evolving security measures.
 
-## Learn More
+- _Regulatory Compliance:_
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  - Embedded features in smart contracts for regulatory adherence.
+  - Alignment with industry standards and legal requirements.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- _Collaboration with Law Enforcement:_
+  - Access to blockchain data and NFT-based warranty certificates for law enforcement.
+  - Aid in effective counterfeit investigations.
 
-### Code Splitting
+## Survey & Market Analysis
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p align="center">
+  <img src="./src/images/market analysis.png" alt="Home Page">
+</p>
 
-### Analyzing the Bundle Size
+<p align="center">
+  <img src="./src/images/data.png" alt="Home Page">
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<p align="center">
+  <img src="./src/images/pie chart.png" alt="Home Page">
+</p>
 
-### Making a Progressive Web App
+<p align="center">
+  <img src="./src/images/WhatsApp Image 2023-11-24 at 20.51.23_cde93248.jpg" alt="Home Page">
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p align="center">
+  <img src="./src/images/WhatsApp%20Image%202023-11-24%20at%2020.51.24_03233050.jpg" alt="Home Page">
+</p>
 
-### Advanced Configuration
+### Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Before getting started with LogQuest, ensure that your development environment meets the following prerequisites:
 
-### Deployment
+- npm
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+  ```sh
+  npm install npm@latest -g
+  ```
 
-### `npm run build` fails to minify
+- Download and install Node.js from nodejs.org.
+- Verify the installation by running the following commands in your terminal:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  ```sh
+  npm --version
+  node --version
+  ```
