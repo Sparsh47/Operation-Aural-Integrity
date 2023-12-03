@@ -4,8 +4,6 @@
 
 Operation Aural Integrity is a groundbreaking solution designed to address the challenges faced by the luxury goods industry, focusing on countering counterfeits, ensuring authenticity, and securing warranties. Leveraging the power of the Tezos blockchain and Non-Fungible Tokens (NFTs), this project introduces a comprehensive assurance ecosystem that redefines transparency and trust in the luxury goods market.
 
-Video link of the prototype: https://rb.gy/akn17g
-
 ## Key Features
 
 - _Tezos Blockchain Integration:_
